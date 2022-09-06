@@ -51,9 +51,9 @@ input {
     display: flex;
     margin: 12px 20rem;
     width: 25%;
-    height: 25%fit-content;
+    height: 10%fit-content;
     position:relative;
-    left: 40%;
+    left: 20%;
 }
 
 .Card-1 {

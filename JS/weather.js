@@ -166,4 +166,4 @@ document.querySelector(".Two").addEventListener("click", function() { weather.di
 document.querySelector(".Three").addEventListener("click", function() { weather.displayWeather(D , 3) });
 document.querySelector(".Four").addEventListener("click", function() { weather.displayWeather(D , 4) });
 
-weather.fetchWeather("Paris");
+weather.fetchWeather("Toronto");
